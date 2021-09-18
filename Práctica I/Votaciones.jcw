@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Votaciones</label>
+	</settings>
+	<users>
+		<user>
+			<path>Votaciones.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Votaciones\Votaciones.jcp</path>
+		</project>
+	</projects>
+</workspace>
