@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Ecuacion</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Ecuacion</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Ecuacion\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Ecuacion\src</path>
+				<dir>src</dir>
+			</folderitem>
+			<folderitem>
+				<path>Ecuacion\src\PResolvente</path>
+				<dir>src\PResolvente</dir>
+			</folderitem>
+			<fileitem>
+				<path>Ecuacion\src\Ecuacion.java</path>
+				<collapsedfolds>0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>Ecuacion\src\PResolvente\Resolvente.java</path>
+				<collapsedfolds>48;14;2</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Ecuacion\classes\Ecuacion.htm</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Ecuacion\src\Ecuacion.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Ecuacion\src\PResolvente\Resolvente.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

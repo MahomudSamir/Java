@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Ecuacion</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>classes\Ecuacion.htm</run>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\PResolvente</path>
+			</folderitem>
+			<fileitem>
+				<path>classes\Ecuacion.htm</path>
+				<folder>classes</folder>
+				<url>classes\Ecuacion.htm</url>
+				<browser>true</browser>
+			</fileitem>
+			<fileitem>
+				<path>src\Ecuacion.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\PResolvente\Resolvente.java</path>
+				<folder>src\PResolvente</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
