@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Grafica</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Grafica</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Grafica\classes</path>
+				<dir>classes</dir>
+			</folderitem>
+			<folderitem>
+				<path>Grafica\src</path>
+				<dir>src</dir>
+			</folderitem>
+			<folderitem>
+				<path>Grafica\src\PMarco</path>
+				<dir>src\PMarco</dir>
+			</folderitem>
+			<fileitem>
+				<path>Grafica\src\Grafica.java</path>
+				<collapsedfolds>0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>Grafica\src\PMarco\Marco.java</path>
+				<collapsedfolds>33;12;2</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Grafica\classes\Grafica.htm</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>Grafica\src\Grafica.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Grafica\src\PMarco\Marco.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>

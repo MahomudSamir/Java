@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Grafica</label>
+	</settings>
+	<users>
+		<user>
+			<path>Grafica.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Grafica\Grafica.jcp</path>
+		</project>
+	</projects>
+</workspace>
