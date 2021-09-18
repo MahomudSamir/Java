@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Elecciones</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Elecciones</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Elecciones\PVotos</path>
+				<dir>PVotos</dir>
+			</folderitem>
+			<fileitem>
+				<path>Elecciones\Principal.java</path>
+				<collapsedfolds>13;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>Elecciones\PVotos\Votos.java</path>
+				<collapsedfolds>47;33;20;6</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Elecciones\Principal.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Elecciones\PVotos\Votos.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
