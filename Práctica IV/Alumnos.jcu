@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Alumnos</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Alumnos</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>Alumnos\PNotas</path>
+				<dir>PNotas</dir>
+			</folderitem>
+			<fileitem>
+				<path>Alumnos\Principal.java</path>
+				<collapsedfolds>13;0</collapsedfolds>
+			</fileitem>
+			<fileitem>
+				<path>Alumnos\PNotas\Notas.java</path>
+				<collapsedfolds>61;44;31;20;6</collapsedfolds>
+			</fileitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Alumnos\Principal.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>Alumnos\PNotas\Notas.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
